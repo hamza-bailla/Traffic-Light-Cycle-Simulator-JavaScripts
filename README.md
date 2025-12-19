@@ -15,11 +15,13 @@ Safety: Includes a control guard to prevent multiple intervals from running simu
 
 **CSS3:** Advanced styling using box-shadow for the glowing effect and flexbox for alignment.
 
-**JavaScript (ES6)**: Array manipulation, DOM event listeners, and timing functions.
+**JavaScript (ES6): **Array manipulation, DOM event listeners, and timing functions.
+
+
 -------
 
 **Ampelphasen-Simulator**
-Eine saubere, logikgesteuerte Simulation eines Ampelsystems, entwickelt mit Vanilla JavaScript. Dieses Projekt konzentriert sich auf das State-Management und die Verwendung von rekursivem Timing, 
+Eine saubere, logikgesteuerte Simulation eines Ampelsystems, entwickelt mit **Vanilla JavaScript.** Dieses Projekt konzentriert sich auf das State-Management und die Verwendung von rekursivem Timing, 
 um unterschiedliche Dauern für verschiedene Ampelphasen zu steuern.
 
 **Funktionsweise**
